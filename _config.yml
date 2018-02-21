@@ -43,6 +43,7 @@ people:
 - name: Oscar Malgiaritta
   pic: 3
   position: Ingeniero de Sistemas
+  company:
   resume: Resumen
   social:
     - title: twitter
@@ -57,6 +58,7 @@ people:
 - name: Travis Pence
   pic: 4
   position: Ingeniero de Sistemas
+  company:
   resume: Resumen
   social:
     - title: twitter
