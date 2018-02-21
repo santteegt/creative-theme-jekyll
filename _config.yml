@@ -8,5 +8,51 @@ url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
+# Team names, titles and social links
+people:
+- name: Renán Freire
+  pic: 1
+  position: Ingeniero de Sistemas
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Santiago Gonzalez
+  pic: 2
+  position: Ingeniero de Sistemas
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Oscar Malgiaritta
+  pic: 3
+  position: Ingeniero de Sistemas
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Travis Pence
+  pic: 4
+  position: Ingeniero de Sistemas
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
 # Build settings
 markdown: kramdown
