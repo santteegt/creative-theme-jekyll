@@ -13,45 +13,59 @@ people:
 - name: Renán Freire
   pic: 1
   position: Ingeniero de Sistemas
+  company: Universidad de Cuenca
+  resume: Resumen
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: linkedin
+      url: #
+    - title: github
       url: #
 
 - name: Santiago Gonzalez
   pic: 2
-  position: Ingeniero de Sistemas
+  position: MSc WSBDA
+  company: Universidad de Cuenca
+  resume: Full Stack Developer & Data Science Eng.
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: linkedin
+      url: #
+    - title: github
       url: #
 
 - name: Oscar Malgiaritta
   pic: 3
   position: Ingeniero de Sistemas
+  resume: Resumen
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: linkedin
+      url: #
+    - title: github
       url: #
 
 - name: Travis Pence
   pic: 4
   position: Ingeniero de Sistemas
+  resume: Resumen
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: linkedin
+      url: #
+    - title: github
       url: #
 
 # Build settings
