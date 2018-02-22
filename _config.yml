@@ -14,7 +14,7 @@ people:
   pic: 1
   position: Ingeniero de Sistemas
   company: Universidad de Cuenca
-  resume: Resumen
+  resume: Investigación y desarrollo
   social:
     - title: twitter
       url: #
@@ -29,16 +29,16 @@ people:
   pic: 2
   position: MSc WSBDA
   company: Universidad de Cuenca
-  resume: Full Stack Developer & Data Science Eng.
+  resume: Full Stack Developer & Data Science Engineer.
   social:
     - title: twitter
-      url: #
+      url: 
     - title: facebook
-      url: #
+      url: https://santteegt.github.io
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/santteegt/
     - title: github
-      url: #
+      url: github.com/santteegt
 
 - name: Oscar Malgiaritta
   pic: 3
@@ -58,8 +58,8 @@ people:
 - name: Travis Pence
   pic: 4
   position: Ingeniero de Sistemas
-  company: Company
-  resume: Resumen
+  company: Freelancer
+  resume: Freelancer
   social:
     - title: twitter
       url: #
