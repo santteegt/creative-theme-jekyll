@@ -1,4 +1,4 @@
-# Landing page for the StartUPS-EMOV Hackatón
+# Landing page for the StartUPS-EMOV Hackaton
 
 Landing page presenting ideas and team members
 
