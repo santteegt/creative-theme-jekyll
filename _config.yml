@@ -14,16 +14,16 @@ people:
   pic: 1
   position: Ingeniero de Sistemas
   company: Universidad de Cuenca
-  resume: Investigación y desarrollo
+  resume: Research & Development
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/renangfz
     - title: facebook
-      url: #
+      url: https://www.facebook.com/renangfz
     - title: linkedin
       url: #
     - title: github
-      url: #
+      url: https://github.com/rfreirez
 
 - name: Santiago Gonzalez
   pic: 2
@@ -32,13 +32,13 @@ people:
   resume: Full Stack Developer & Data Science Engineer
   social:
     - title: twitter
-      url: 
+      url: #
     - title: facebook
       url: https://santteegt.github.io
     - title: linkedin
       url: https://www.linkedin.com/in/santteegt/
     - title: github
-      url: github.com/santteegt
+      url: https://github.com/santteegt
 
 - name: Oscar Malgiaritta
   pic: 3
